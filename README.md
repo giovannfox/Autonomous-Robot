@@ -1,2 +1,14 @@
-# Autonomous-Robot
-An autonomous robot built to navigate an obstacle course.
+# TODO
+
+# i/o
+	- set motor speeds OK 
+	- get motor speeds OK
+	- get line sensor status
+	- get side echo distance
+	- get front echo distance
+
+# logic
+	- follow line
+	- stop for object
+	- move around object
+	- move up ramp
